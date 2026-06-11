@@ -21,14 +21,17 @@ The system allows patients to self-register, generate tokens, and enables admini
 
 ---
 
-##  Admin Module
+## Admin Module
 
-* Secure admin login page
+* Admin login page
 * View all patient registrations
 * Search patients by name
 * Filter patients by department
 * View generated token numbers
 * Responsive dashboard layout
+
+> Note: The admin login uses simple credential validation for demonstration purposes.
+
 
 ---
 
