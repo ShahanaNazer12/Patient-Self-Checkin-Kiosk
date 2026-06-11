@@ -1,0 +1,12 @@
+.kiosk-keypad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.key-btn {
+  padding: 14px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+}
